@@ -1,0 +1,20 @@
+{
+    "info": {
+      "name": "Link",
+      "class": "Hero",
+      "triforcePower": "Courage",
+      "weapon": "Master Sword"
+    },
+    "info2": {
+        "name": "Zelda",
+        "class": "Hero",
+        "triforcePower": "Wisdom",
+        "weapon": "Magic"
+    },
+    "contact3": {
+        "name": "Tingle",
+        "class": "Hero",
+        "triforcePower": "None",
+        "weapon": "None"
+    }
+}
